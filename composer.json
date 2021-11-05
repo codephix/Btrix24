@@ -1,5 +1,5 @@
 {
-  "name": "codephix/Btrix24",
+  "name": "codephix/btrix24",
   "type"       : "library",
   "description": "Btrix24 PHP API Wrapper",
   "keywords"   : ["Btrix24", "API", "Btrix24 SaaS"],
